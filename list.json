@@ -6,8 +6,8 @@
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/app_gitlab.png",
         "displayName": "GitLab",
         "name": "gitlab",
-        "version": "8.9.6",
-        "location": "https://hub.docker.com/r/sameersbn/gitlab/",
+        "version": "8.16.3",
+        "location": "https://hub.docker.com/r/gitlab/gitlab-ce/",
         "type": "app"
     }, 
     {
@@ -200,7 +200,7 @@
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/jenkins_icon.png", 
         "displayName": "Jenkins", 
         "name": "jenkins", 
-        "version": "2.19.1", 
+        "version": "2.32.1", 
         "location": "https://hub.docker.com/_/jenkins/", 
         "type": "docker"
     }, 
